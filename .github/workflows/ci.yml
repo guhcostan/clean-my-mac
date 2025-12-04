@@ -80,7 +80,7 @@ jobs:
           tar -czvf clean-my-mac-${VERSION}.tar.gz package.json dist/ node_modules/
 
       - name: Create GitHub Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: clean-my-mac-*.tar.gz
           generate_release_notes: true

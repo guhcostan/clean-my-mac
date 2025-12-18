@@ -93,6 +93,7 @@ Summary:
 |---------|-------------|
 | 🚀 **One Command** | Just run `npx mac-cleaner-cli` — no complex flags |
 | 🎯 **Interactive** | Select exactly what you want to clean with checkboxes |
+| 📁 **File Explorer** | Drill down into folders to select specific items |
 | 🛡️ **Safe by Default** | Risky items hidden unless you use `--risky` |
 | 🔍 **Smart Scanning** | Finds caches, logs, dev files, browser data, and more |
 | 📱 **App Uninstaller** | Remove apps completely with all associated files |
